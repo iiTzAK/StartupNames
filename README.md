@@ -1,6 +1,6 @@
 # startup_namer
 
-A new Flutter application.
+A new Flutter application. With Codelabs
 
 ## Getting Started
 
